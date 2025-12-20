@@ -1,5 +1,6 @@
 import sys
 import time
+import matplotlib.pyplot as plt
 # 1. New function to read from text file
 def read_file(filename):
     try:
